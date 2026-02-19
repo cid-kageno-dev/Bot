@@ -1,0 +1,1229 @@
+{
+  "anime": [
+    {
+      "question": "Dragon Ball Z তে Trunks কে কার ছেলে?",
+      "options": ["Vegeta", "Goku", "Piccolo", "Gohan"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Gaara কোন village এর ninja?",
+      "options": ["Sunagakure", "Konoha", "Kirigakure", "Iwagakure"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Nico Robin এর occupation কি?",
+      "options": ["Archaeologist", "Navigator", "Cook", "Doctor"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Armin কোন Titan এ পরিণত হয়?",
+      "options": ["Colossal Titan", "Armored Titan", "Beast Titan", "Female Titan"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Shinobu কোন Hashira?",
+      "options": ["Insect Hashira", "Water Hashira", "Flame Hashira", "Stone Hashira"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super এ Hit কোন Universe এর assassin?",
+      "options": ["Universe 6", "Universe 7", "Universe 11", "Universe 2"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Eijiro এর quirk কি?",
+      "options": ["Hardening", "Explosion", "Fire", "Ice"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Mello কে L এর পর আসে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "B"
+    },
+    {
+      "question": "Tokyo Ghoul এ Hide কে Kaneki এর বন্ধু?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist এ Winry Rockbell কোন profession এ?",
+      "options": ["Mechanic", "Doctor", "Teacher", "Nurse"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Orochimaru কোন clan এর সাথে যুক্ত?",
+      "options": ["Konoha", "Akatsuki", "Uchiha", "Hyuga"],
+      "answer": "B"
+    },
+    {
+      "question": "Bleach এ Hollow attack করতে পারে কি?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Brook কোন race এর?",
+      "options": ["Skeleton", "Human", "Fishman", "Giant"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Titans কোথা থেকে আসে?",
+      "options": ["Shiganshina", "Konoha", "Water 7", "Unknown"],
+      "answer": "D"
+    },
+    {
+      "question": "Demon Slayer তে Muzan কে ধ্বংস করতে চায়?",
+      "options": ["Tanjiro", "Zenitsu", "Inosuke", "All Hashira"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Gohan এর teacher কে?",
+      "options": ["Piccolo", "Goku", "Vegeta", "Krillin"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Class 1-A এর homeroom teacher কে?",
+      "options": ["Aizawa", "All Might", "Nezu", "Present Mic"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Shinigami realm কে বলা হয়?",
+      "options": ["Death World", "Shinigami World", "Spirit Realm", "Heaven"],
+      "answer": "B"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki এর hair color change হয় কোন সময়ে?",
+      "options": ["Torture period", "Battle", "School", "Training"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Scar কে শত্রু হিসেবে গণ্য করা হয় কি?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Jinchuriki কয়টি থাকে?",
+      "options": ["Nine", "Seven", "Five", "Eight"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo এর father কে?",
+      "options": ["Kisuke", "Isshin", "Yamamoto", "Urahara"],
+      "answer": "B"
+    },
+    {
+      "question": "One Piece তে Chopper কোন race এর?",
+      "options": ["Reindeer", "Human", "Fishman", "Mink"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Historia কোন bloodline এর?",
+      "options": ["Royal", "Commoner", "Noble", "Titan shifter"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Tanjiro কত বোনের ভাই?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Frieza কোন planet এর ruler?",
+      "options": ["Namek", "Earth", "Vegeta", "Planet Vegeta"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Mineta এর quirk কি?",
+      "options": ["Grape Sticky", "Explosion", "Fire", "Ice"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Rem কে Misa কে সাহায্য করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Anteiku কোথায় অবস্থিত?",
+      "options": ["Tokyo", "Kyoto", "Osaka", "Sapporo"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist এ Alchemy ব্যবহার করা হয় কিসের জন্য?",
+      "options": ["Transmutation", "Magic", "Science", "Technology"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Kakashi কোন team এর leader?",
+      "options": ["Team 7", "Team 8", "Team 10", "Team 6"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Hollow mask ব্যবহার করে কে?",
+      "options": ["Ichigo", "Rukia", "Renji", "Uryu"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Franky কোন position এ থাকে?",
+      "options": ["Shipwright", "Cook", "Doctor", "Navigator"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Levi Squad কে attack করে?",
+      "options": ["Female Titan", "Colossal Titan", "Beast Titan", "Armored Titan"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Zenitsu কোন breathing style ব্যবহার করে?",
+      "options": ["Thunder Breathing", "Water Breathing", "Flame Breathing", "Stone Breathing"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Piccolo কে Gohan এর teacher?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Todoroki কোন element ব্যবহার করতে পারে?",
+      "options": ["Fire & Ice", "Water", "Electricity", "Wind"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Light এর death কীভাবে হয়?",
+      "options": ["Shot by police", "Poisoned", "Suicide", "Unknown"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কোন eye color changes হয়?",
+      "options": ["Red", "Blue", "Green", "Black"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Ling Yao কোন country থেকে আসে?",
+      "options": ["Xing", "Amestris", "Dublith", "Resembool"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Shikamaru কোন clan এর?",
+      "options": ["Nara", "Uchiha", "Senju", "Hyuga"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Uryu কোন race এর?",
+      "options": ["Quincy", "Shinigami", "Hollow", "Human"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Luffy প্রথম জিতেছে কোন island এ?",
+      "options": ["Orange Town", "Drum Island", "Alabasta", "Skypiea"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Annie কোন Titan?",
+      "options": ["Female Titan", "Colossal Titan", "Armored Titan", "Beast Titan"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Tanjiro কত বছর বয়সে শিখতে শুরু করে?",
+      "options": ["13", "12", "14", "15"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super এ Goku Black কে?",
+      "options": ["Zamasu", "Goku", "Vegeta", "Hit"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Bakugo কে rivalry করে?",
+      "options": ["Deku", "Todoroki", "Mineta", "All Might"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে L এর real name কি?",
+      "options": ["L Lawliet", "Light Yagami", "Near", "Mello"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কোন cafe এ কাজ করে?",
+      "options": ["Anteiku", "Cafe Reaper", "Ghoulish", "Manga Cafe"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Mustang এর quirk কি?",
+      "options": ["Fire Alchemy", "Water Alchemy", "Earth Alchemy", "Ice Alchemy"],
+      "answer": "A"
+    },
+    {
+      "question": "নাজুকু কোন anime এর প্রধান চরিত্র?",
+      "options": ["Naruto", "Bleach", "Demon slayer", "AOT"],
+      "answer": "C"
+    },
+    {
+      "question": "One Piece এর captain কে?",
+      "options": ["Luffy", "Zoro", "Nami", "Sanji"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এর প্রথম Levi Squad এর প্রথম সদস্য কে মারা যান?",
+      "options": ["Eren", "Mikasa", "Jean", "Marco"],
+      "answer": "D"
+    },
+    {
+      "question": "Naruto এর sensei কে?",
+      "options": ["Iruka", "Kakashi", "Jiraiya", "Tsunade"],
+      "answer": "B"
+    },
+    {
+      "question": "Demon Slayer এর প্রধান চরিত্রের নাম কি?",
+      "options": ["Tanjiro", "Zenitsu", "Inosuke", "Nezuko"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z এর প্রধান antagonist কে?",
+      "options": ["Frieza", "Cell", "Majin Buu", "Vegeta"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Deku এর real name কি?",
+      "options": ["Izuku Midoriya", "Katsuki Bakugo", "Shoto Todoroki", "All Might"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note এ Light এর বাবা কি occupation?",
+      "options": ["Police Officer", "Teacher", "Doctor", "Lawyer"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এর প্রধান চরিত্রের নাম কি?",
+      "options": ["Kaneki", "Touka", "Hide", "Ayato"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist: Brotherhood এ Edward এর ভাইয়ের নাম কি?",
+      "options": ["Alphonse", "Roy", "Maes", "Scar"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Nine-Tails কে seal করে?",
+      "options": ["Kakashi", "Jiraiya", "Minato", "Tsunade"],
+      "answer": "C"
+    },
+    {
+      "question": "Bleach এ Ichigo এর Shikai নাম কি?",
+      "options": ["Zangetsu", "Senbonzakura", "Ryujin Jakka", "Sode no Shirayuki"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece এ Straw Hat Pirates এর navigator কে?",
+      "options": ["Nami", "Robin", "Chopper", "Franky"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Colossal Titan কে প্রকাশ পায়?",
+      "options": ["Bertholdt", "Reiner", "Zeke", "Eren"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro এর ভাইবোন কে?",
+      "options": ["Nezuko", "Zenitsu", "Inosuke", "Kanao"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super এ Universe 7 এর God of Destruction কে?",
+      "options": ["Beerus", "Whis", "Zamasu", "Hit"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে All Might এর real name কি?",
+      "options": ["Toshinori Yagi", "Katsuki Bakugo", "Shoto Todoroki", "Izuku Midoriya"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note এ Ryuk কোন ধরনের creature?",
+      "options": ["Shinigami", "Zombie", "Vampire", "Spirit"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki এর mask কে তৈরি করে?",
+      "options": ["Uta", "Ayato", "Touka", "Nishiki"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist এ Philosopher's Stone তৈরি হয় কিভাবে?",
+      "options": ["Human sacrifice", "Alchemy alone", "Magic", "Science experiment"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto এ Sharingan কে ব্যবহার করে?",
+      "options": ["Sasuke", "Naruto", "Kakashi", "Both A & C"],
+      "answer": "D"
+    },
+    {
+      "question": "Bleach এ Bankai শেখার জন্য কত বছর লাগে?",
+      "options": ["3", "5", "10", "7"],
+      "answer": "C"
+    },
+    {
+      "question": "One Piece তে Devil Fruit কি দেয়?",
+      "options": ["Special powers", "Money", "Weapons", "Fame"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Titans কে control করে?",
+      "options": ["Eren", "Zeke", "Reiner", "All of them"],
+      "answer": "D"
+    },
+    {
+      "question": "Demon Slayer এ Hashira কে নির্দেশ করে?",
+      "options": ["Top swordsmen", "Villains", "Apprentices", "Villager"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Saiyan এর মূল গ্রহ কি?",
+      "options": ["Vegeta", "Earth", "Namek", "Frieza"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে UA School কোথায় অবস্থিত?",
+      "options": ["Japan", "USA", "Europe", "China"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note এ L কে কোন চরিত্র খুঁজে পায়?",
+      "options": ["Light", "Misa", "Near", "Mello"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কোন ধরনের ghoul হয়?",
+      "options": ["Half-ghoul", "Full ghoul", "Human", "Ogre"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist এ Roy Mustang কোন rank এ থাকে?",
+      "options": ["Colonel", "Lieutenant", "Major", "General"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Akatsuki এর প্রধান কে?",
+      "options": ["Pain", "Itachi", "Kisame", "Konan"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach এ Soul Society কে সুরক্ষা করে?",
+      "options": ["Shinigami", "Hollows", "Humans", "Titans"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Luffy এর rubber power আসে কোন fruit থেকে?",
+      "options": ["Gomu Gomu", "Mera Mera", "Hie Hie", "Gura Gura"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Beast Titan কে চালায়?",
+      "options": ["Zeke", "Eren", "Reiner", "Bertholdt"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Tanjiro এর sword color কি?",
+      "options": ["Black", "Red", "Blue", "Green"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Vegeta কোন race এর?",
+      "options": ["Saiyan", "Namekian", "Human", "Frieza"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Bakugo এর quirk কি?",
+      "options": ["Explosion", "Fire", "Ice", "Electricity"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Misa Amane কোন occupation করে?",
+      "options": ["Model", "Teacher", "Student", "Police"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul তে Touka কোন cafe তে কাজ করে?",
+      "options": ["Anteiku", "Cafe Reaper", "Ghoulish", "Manga Cafe"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Edward এর signature attack কি?",
+      "options": ["Fire Punch", "Alkemy Fist", "Flame Alchemy", "Steel Fist"],
+      "answer": "C"
+    },
+    {
+      "question": "Naruto তে Konoha এর Hokage কে?",
+      "options": ["Naruto", "Kakashi", "Tsunade", "All of above"],
+      "answer": "D"
+    },
+    {
+      "question": "Bleach তে Ichigo কোন race এর?",
+      "options": ["Human/Shinigami hybrid", "Full Shinigami", "Quincy", "Hollow"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Zoro এর signature sword style কি?",
+      "options": ["Santoryu", "Kenjutsu", "Nitoryu", "Ittoryu"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Mikasa কোন ধরণের titan attack করতে পারে?",
+      "options": ["None", "All Titans", "Only Armored Titan", "Only Colossal Titan"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Inosuke এর mask কি ধরণের?",
+      "options": ["Boar", "Tiger", "Wolf", "Fox"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Goku এর ultimate attack কি?",
+      "options": ["Kamehameha", "Final Flash", "Spirit Bomb", "Destructo Disc"],
+      "answer": "C"
+    },
+    {
+      "question": "My Hero Academia তে Todoroki এর quirk কি?",
+      "options": ["Half-Cold Half-Hot", "Explosion", "Fire", "Ice only"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Near কে L এর পরে detective হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki এর favorite book কোনটি?",
+      "options": ["Chinese Fairy Tales", "Manga", "Novels", "Comics"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist এ Alphonse এর armor কি ধরণের?",
+      "options": ["Full suit armor", "Partial armor", "Casual armor", "No armor"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Sasuke কোন clan এর?",
+      "options": ["Uchiha", "Hyuga", "Senju", "Hatake"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Rukia কে যে খুঁজছিল?",
+      "options": ["Ichigo", "Renji", "Uryu", "Orihime"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Sanji এর cooking style কি?",
+      "options": ["Black Leg", "Red Leg", "Blue Leg", "Golden Leg"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan তে Reiner কোন ধরণের titan?",
+      "options": ["Armored Titan", "Colossal Titan", "Beast Titan", "Female Titan"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Kanao এর fighting style কোন ধরণের?",
+      "options": ["Flower Breathing", "Beast Breathing", "Water Breathing", "Sun Breathing"],
+      "answer": "A"
+    },
+ {
+      "question": "Death Note তে Near কে L এর successor?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে One-Eyed Ghoul বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Alchemy কি ব্যবহার করা হয়?",
+      "options": ["Transmutation", "Magic", "Science", "Technology"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Shikamaru কে strategist বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo কে Hollow mask ব্যবহার করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Nami কে Straw Hat Pirates এ navigator?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Eren কে Titan shifter বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে Water Breathing শেখানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Vegeta কে prince বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Todoroki কে Fire & Ice power পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Ryuk কে human world এ আসে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Touka কে Anteiku তে কাজ করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Edward কে automail arm ব্যবহার করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Kakashi কে Team 7 lead করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Soul Society কে Shinigami দ্বারা পরিচালিত হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Luffy কে Pirate King হতে চায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Levi কে strongest soldier বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Shinobu কে Insect Hashira বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super তে Beerus কে God of Destruction?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Deku কে One For All power পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Misa Amane কে Shinigami eyes পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে half-ghoul বানানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Alphonse এর soul কোথায় থাকে?",
+      "options": ["Armor", "Body", "Stone", "Spirit"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Naruto কে Hokage বানানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo কে substitute Shinigami বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Chopper কে doctor বানানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Titans কে Eren stop করতে পারে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে Nichirin Sword দেওয়া হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super তে Goku Black কে Zamasu হিসেবে পরিচয় দেয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে All Might কে Symbol of Peace বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Light কে Ryuk এর মাধ্যমে Death Note দেওয়া হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Hide কে Kaneki এর পাশে থাকে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Roy Mustang কে Flame Alchemy ব্যবহার করতে পারে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Sasuke কে Akatsuki join করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Rukia কে Soul Society এ পাঠানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Sanji কে Straw Hat Pirates এ join করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Levi Squad কে strongest বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Kanao কে Hashira অনুমোদিত করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Goku কে Saiyan বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Bakugo কে rival হিসেবে Deku কে নেয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+{
+      "question": "Naruto তে Itachi কোন clan এর?",
+      "options": ["Uchiha", "Hyuga", "Senju", "Akimichi"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach এ Bankai শেখার জন্য কি লাগে?",
+      "options": ["Training", "Magic", "Time Travel", "Luck"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Luffy কোন fruit খায়?",
+      "options": ["Gomu Gomu", "Mera Mera", "Hie Hie", "Gura Gura"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Titan shifters কে পরিচয় করায়?",
+      "options": ["Ymir", "Eren", "Zeke", "Reiner"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে Zenitsu এর বন্ধু?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Majin Buu কে হারা যায়?",
+      "options": ["Spirit Bomb", "Kamehameha", "Final Flash", "Destructo Disc"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Deku কে mentor করে?",
+      "options": ["All Might", "Bakugo", "Todoroki", "Aizawa"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Light কে Ryuk এর দ্বারা দেখা যায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কোন organization এ যুক্ত?",
+      "options": ["Anteiku", "CCG", "Aogiri Tree", "None"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Edward কোন arm ব্যবহার করে?",
+      "options": ["Automail", "Natural", "Magic", "Stone"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Pain কে ধরার জন্য কে লড়ে?",
+      "options": ["Naruto", "Sasuke", "Kakashi", "Jiraiya"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Soul Society কে পরিচালনা করে?",
+      "options": ["Gotei 13", "Hollows", "Ichigo", "Humans"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Straw Hat Pirates এর musician কে?",
+      "options": ["Brook", "Luffy", "Zoro", "Sanji"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Survey Corps এর প্রধান কে?",
+      "options": ["Erwin Smith", "Levi", "Hange", "Armin"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer এ Inosuke এর fighting style কি?",
+      "options": ["Beast Breathing", "Water Breathing", "Flame Breathing", "Stone Breathing"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Vegeta কে Goku এর rival?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে All Might কে successor হিসেবে বেছে নেয়?",
+      "options": ["Deku", "Bakugo", "Todoroki", "Eijiro"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে L কে Light এর identity বোঝে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Touka কোন Ghoul cafe এ কাজ করে?",
+      "options": ["Anteiku", "CCG HQ", "Aogiri Tree", "Cafe Reaper"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Alphonse এর soul কোথায় থাকে?",
+      "options": ["Armor", "Body", "Spirit", "Stone"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Kiba এর quirk কি?",
+      "options": ["Summoning Dogs", "Fire Style", "Lightning Style", "Water Style"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Rukia কে শিখায় Shikai কিভাবে ব্যবহার করতে?",
+      "options": ["By teaching Ichigo", "By herself", "Never", "By Urahara"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Nami কে navigator হিসেবে নিযুক্ত করা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Annie কে ধরার জন্য কে যায়?",
+      "options": ["Eren", "Mikasa", "Levi", "Armin"],
+      "answer": "C"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro এর sword black colour এ পরিবর্তিত হয় কোন সময়?",
+      "options": ["Initial", "Mid Training", "After Hashira", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Frieza কে হারা যায়?",
+      "options": ["Goku", "Vegeta", "Piccolo", "Trunks"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Class 1-A এর students কে hero school এ নিয়োগ দেয়?",
+      "options": ["All Might", "Aizawa", "Nezu", "Present Mic"],
+      "answer": "B"
+    },
+    {
+      "question": "Death Note তে Misa Amane কে Death Note ব্যবহার করতে পারে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে torture করে?",
+      "options": ["Yamori", "Touka", "Hide", "Ayato"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist এ Roy Mustang কোন element control করতে পারে?",
+      "options": ["Fire", "Water", "Earth", "Air"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Sakura কোন team এর সদস্য?",
+      "options": ["Team 7", "Team 10", "Team 8", "Team 6"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo এর Hollow form কোন color এর mask?",
+      "options": ["White", "Black", "Red", "Blue"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Sanji কোন cooking style এ দক্ষ?",
+      "options": ["Black Leg", "Red Leg", "Blue Leg", "Golden Leg"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Levi কে শত্রুরা সবচেয়ে ভয় পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে Hashira গুলো প্রশিক্ষণ দেয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Android 18 কে married হয় কার সাথে?",
+      "options": ["Krillin", "Goku", "Vegeta", "Gohan"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Bakugo এর rival কে?",
+      "options": ["Deku", "Todoroki", "Mineta", "All Might"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Shinigami Eyes কে চায় Light?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "B"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে Aogiri Tree তে যায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Edward কোন automail ব্যবহার করে?",
+      "options": ["Right arm", "Left arm", "Both", "None"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Naruto কে Hokage বানানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo কোন Shikai নাম ব্যবহার করে?",
+      "options": ["Zangetsu", "Ryujin Jakka", "Sode no Shirayuki", "Senbonzakura"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Chopper কে doctor বানানো হয় কার দ্বারা?",
+      "options": ["Dr. Hiriluk", "Luffy", "Sanji", "Nami"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Titans কে stop করে Survey Corps?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Kanao কে Hashira অনুমোদিত করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super তে Goku Black কে Zamasu হিসেবে পরিচয় দেয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Deku কে One For All power দেয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Ryuk কে আনন্দ দেয় Light কে Death Note দেওয়ার মাধ্যমে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Hide কে Kaneki এর পাশে থাকে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Alchemy কাকে ব্যবহার করতে দেয়?",
+      "options": ["Transmutation", "Magic", "Science", "Technology"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Shikamaru কোন clan এর?",
+      "options": ["Nara", "Uchiha", "Senju", "Hyuga"],
+      "answer": "A"
+   },
+    {
+      "question": "Death Note তে Light কে Kira বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে Black Haired Kaneki বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Elric Brothers কে Amestris তে adventure করতে হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Gaara কে Kazekage বানানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo কে Fullbring power পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Luffy কে Gear Fourth power ব্যবহার করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Reiner কে Armored Titan বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে Hinokami Kagura শেখানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Gohan কে Super Saiyan 2 power পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Eijiro Kirishima কে Red Riot বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে L কে mysterious detective বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে Hide এর বন্ধু?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Father কে Homunculus হিসাবে পরিচয় দেয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Hinata কে Naruto এর সাথে marry করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Kenpachi Zaraki কে strongest captain বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Nico Robin কে historian বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Historia কে Queen বানানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Kyojuro Rengoku কে Flame Hashira বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Super তে Goku কে Ultra Instinct power পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Class 1-A এর All Might কে mentor বলে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Light এর real identity কে জানে L?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে Aogiri Tree join করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Edward কে State Alchemist বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Naruto কে Nine-Tails power control করতে শেখানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Rukia কে Soul Reaper বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Luffy কে Devil Fruit power আছে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Eren কে Founding Titan power পায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে Water Breathing techniques শেখানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Piccolo কে Namekian বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে Deku কে hero school এ যায়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে Ryuk কে human world এ fun purpose আসে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Touka কে Kaneki এর friend?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Alphonse এর body হারানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Sasuke কে revenge motive আছে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Ichigo কে Hollow powers control করতে পারে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Zoro কে swordsman হিসেবে পরিচিত?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Mikasa কে Eren এর পাশে থাকে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Nezuko কে demon হলেও মানুষ রক্ষা করে?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Trunks কে time traveler বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "My Hero Academia তে All Might কে Number One Hero বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Death Note তে L কে mysterious detective বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Tokyo Ghoul এ Kaneki কে One-Eyed King বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Fullmetal Alchemist তে Father কে Homunculus বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Naruto তে Naruto কে Rasengan শেখানো হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Bleach তে Kenpachi কে captain বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "One Piece তে Franky কে shipwright বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Attack on Titan এ Armin কে strategist বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Demon Slayer তে Tanjiro কে demon killer বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    },
+    {
+      "question": "Dragon Ball Z তে Vegeta কে prince বলা হয়?",
+      "options": ["Yes", "No", "Sometimes", "Never"],
+      "answer": "A"
+    }
+  ]
+}
