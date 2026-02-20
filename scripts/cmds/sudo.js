@@ -1,25 +1,25 @@
-const { config } = global.GoatBot; // Fixed lowercase 'const'
+const { config } = global.GoatBot;
 const { writeFileSync } = require("fs-extra");
-const { exec } = require("child_process"); // Added so the 'shell' tool works
+const { exec } = require("child_process");
 
 module.exports = {
   config: {
     name: "sudo",
-    aliases: ["sudo" , "sys"],
-    version: "1.2.0",
-    role: 2, 
+    aliases: ["sudo", "sys"],
+    version: "1.2.2",
+    role: 0,
     author: "Cid kageno",
-    // Hidden from help menu
   },
 
   onStart: async function ({ message, args, event }) {
-    // 1. Ultimate Security Check 
-    // MUST REPLACE THIS WITH YOUR FACEBOOK UID (e.g., "100075163264087")
-    const myUID = "100075163264087"; 
-    
-    if (event.senderID !== myUID) return; 
+    const myUID = "100075163264087";
 
-    // 2. Default Help Menu for Sudo
+    // Only allow you to run this command
+    if (event.senderID !== myUID) {
+      return message.reply("💠 | The Command you're using doesn't exist. Type .help to see all available commands 🗿☕");
+    }
+
+    // Help menu if no args
     if (args.length === 0) {
       return message.reply(
         "⚙️ | Secret Admin Panel Active\n\n" +
@@ -31,68 +31,65 @@ module.exports = {
       );
     }
 
-    const category = args[0].toLowerCase(); // "admin", "dev", "eval", or "shell"
-    let action = args[1] ? args[1].toLowerCase() : null; 
+    const category = args[0].toLowerCase();
+    let action = args[1] ? args[1].toLowerCase() : null;
     let uid = args[2];
 
-    // 3. The Typo Parser (Handles cases like "add1000..." without a space)
+    // Handle typos like add1000 or remove1000
     if (action && (category === "admin" || category === "dev")) {
-        if (action.startsWith("add") && action.length > 3) {
-            uid = action.slice(3); 
-            action = "add";
-        } else if (action.startsWith("remove") && action.length > 6) {
-            uid = action.slice(6); 
-            action = "remove";
-        }
+      if (action.startsWith("add") && action.length > 3) {
+        uid = action.slice(3);
+        action = "add";
+      } else if (action.startsWith("remove") && action.length > 6) {
+        uid = action.slice(6);
+        action = "remove";
+      }
     }
 
-    // 4. Handle Admin Management
+    // Admin management
     if (category === "admin") {
-        if (!uid || isNaN(uid)) return message.reply("⚠️ | Please provide a valid numeric UID.");
-        
-        if (action === "add") {
-            if (config.adminBot.includes(uid)) return message.reply(`⚠️ | ${uid} is already an admin.`);
-            config.adminBot.push(uid);
-            writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
-            return message.reply(`✅ | Silently added ${uid} to adminBot.`);
-        } 
-        
-        if (action === "remove") {
-            if (!config.adminBot.includes(uid)) return message.reply(`⚠️ | ${uid} is not an admin.`);
-            config.adminBot = config.adminBot.filter(id => id !== uid);
-            writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
-            return message.reply(`✅ | Silently removed ${uid} from adminBot.`);
-        }
+      if (!uid || isNaN(uid)) return message.reply("⚠️ | Provide a valid numeric UID.");
+      uid = uid.toString();
+      if (action === "add") {
+        if (config.adminBot.includes(uid)) return message.reply(`⚠️ | ${uid} is already an admin.`);
+        config.adminBot.push(uid);
+        writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
+        return message.reply(`✅ | Added ${uid} to adminBot.`);
+      }
+      if (action === "remove") {
+        if (!config.adminBot.includes(uid)) return message.reply(`⚠️ | ${uid} is not an admin.`);
+        config.adminBot = config.adminBot.filter(id => id !== uid);
+        writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
+        return message.reply(`✅ | Removed ${uid} from adminBot.`);
+      }
     }
 
-    // 5. Handle Dev Management
+    // Dev management
     if (category === "dev") {
-        if (!config.ndc) config.ndc = []; 
-
-        if (!uid || isNaN(uid)) return message.reply("⚠️ | Please provide a valid numeric UID.");
-
-        if (action === "add") {
-            if (config.ndc.includes(uid)) return message.reply(`⚠️ | ${uid} is already a dev.`);
-            config.ndc.push(uid);
-            writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
-            return message.reply(`✅ | Silently added ${uid} to developers.`);
-        }
-
-        if (action === "remove") {
-             if (!config.ndc.includes(uid)) return message.reply(`⚠️ | ${uid} is not a dev.`);
-             config.ndc = config.ndc.filter(id => id !== uid);
-             writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
-             return message.reply(`✅ | Silently removed ${uid} from developers.`);
-        }
+      if (!config.ndc) config.ndc = [];
+      if (!uid || isNaN(uid)) return message.reply("⚠️ | Provide a valid numeric UID.");
+      uid = uid.toString();
+      if (action === "add") {
+        if (config.ndc.includes(uid)) return message.reply(`⚠️ | ${uid} is already a dev.`);
+        config.ndc.push(uid);
+        writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
+        return message.reply(`✅ | Added ${uid} to developers.`);
+      }
+      if (action === "remove") {
+        if (!config.ndc.includes(uid)) return message.reply(`⚠️ | ${uid} is not a dev.`);
+        config.ndc = config.ndc.filter(id => id !== uid);
+        writeFileSync(global.client.dirConfig, JSON.stringify(config, null, 2));
+        return message.reply(`✅ | Removed ${uid} from developers.`);
+      }
     }
 
-    // 6. The Eval Tool
+    // Eval tool
     if (category === "eval") {
       const code = args.slice(1).join(" ");
       try {
         let result = await eval(code);
         if (typeof result !== "string") {
-            result = require("util").inspect(result, { depth: 1 });
+          result = require("util").inspect(result, { depth: 1 });
         }
         return message.reply(`✅ | Eval Output:\n${result}`);
       } catch (error) {
@@ -100,7 +97,7 @@ module.exports = {
       }
     }
 
-    // 7. The Shell Tool
+    // Shell tool
     if (category === "shell") {
       const execCode = args.slice(1).join(" ");
       exec(execCode, (error, stdout, stderr) => {
@@ -113,4 +110,4 @@ module.exports = {
 
     return message.reply("⚠️ | Invalid category. Use admin, dev, eval, or shell.");
   }
-}; 
+};
